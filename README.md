@@ -111,3 +111,23 @@ lisa.chen@healthsys.org,Head of Patient Services,Our patient intake process has 
     "cache_key": "..."
   }
 }
+
+## Future Improvements
+
+1) Add a Simple Web UI:
+
+ •	Provide a friendly interface for uploading lead CSV files
+
+ •	Allow users to download enriched outputs and DLQ items
+
+ •	Provide filters (urgency, persona, assigned team)
+
+2) Deploy as a Cloud Service
+
+3) Analytics Dashboard:
+
+ •	Visualize urgency distribution, persona trends, DLQ rate, cost/lead
+
+ •	Identify patterns (e.g., most urgent industries)
+
+4) Add authentication for UI/API access
