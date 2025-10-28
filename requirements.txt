@@ -1,0 +1,13 @@
+langchain
+langchain-community
+langchain_groq
+streamlit
+pandas
+python-dotenv
+torch
+transformers
+sentence-transformers
+langchain_huggingface
+faiss-cpu
+jsonschema
+langchain-google-genai
