@@ -3,6 +3,8 @@
 
 > AI-powered pipeline that enriches inbound business leads from CSV exports.  
 > Automatically detects persona type, urgency, intent summary, and routes leads to the correct team.
+> Output data file and input csv have not been included in this repository
+> This is a code only repository.
 
 ---
 
